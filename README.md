@@ -8,17 +8,22 @@
 
 ## Casos de uso
 ### Homepage
+Página inicial da aplicação, onde usuario conhece a plataforma Pupilla, os profissionais parceiros e os cursos em destaque. A ordem e os cursos no carrossel, podem ser alterados atraves do painel de administrador, onde apenas pessoas autorizadas possuem acesso.
+
 ![chrome-capture-2023-2-22-min](https://user-images.githubusercontent.com/88735972/226975066-b8d185b7-22bc-45c4-885d-cde014884455.gif)
 
 ### Blog
+No inicio do projeto, a Pupilla se indentificava mais como uma plataforma de atualização para médicos e especialistas, então, a plataforma era populada com artigos, podcasts e pupillaclass(artigo masterclass, com miniaula no youtube). Os principais autores, indentificados como KOLs (Key Opnion Liders) eram remunerados para escrever artigos na plataforma. O editor de artigo pode ser acessado atraves do painel de adminitrador. O KOLs não possuiam cargo de administrados, então as funções do painel era limitado para eles e outros redatores da plataforma. 
+
 ![chrome-capture-2023-2-22 (3)-min](https://user-images.githubusercontent.com/88735972/226976633-f9ad80f8-9a09-4853-b790-306bade809f4.gif)
 
 ### Página de cursos
+Para viabilizar uma melhor monetização para a Pupilla, integramos as páginas de cursos no site, as mesmas que só estavam hospedadas na URL do site antigo e no LMS terceiro, contratado para hospedar as video-aulas. Para criar uma página, é muito simples. Basta ser administrador e atraves do painel de administrador o usuario pode criar, editar ou despublicar um curso, criamos um editor de curso, onde o usuario inputava os dados do novo curso. Também, atraves do editor, podemos alterar a ordem que os cursos aparecem no carrossel da homepage, e a ordem dos proprios cursos na página.
+
 ![chrome-capture-2023-2-22 (2)-min](https://user-images.githubusercontent.com/88735972/226976114-4b3b5542-d5f1-4998-a211-0d558f0a0992.gif)
 
 
 ## Tecnologias 
 
 ## Aprendizados
-
-
+Entrei no projeto em março de 2022, ainda como estagiario da Indigo. Tive a oportunidade de me desenvolver tanto minhas hard skills quanto minhas soft skills, trabalho em equipe, relacionamento com o cliente, levantamento de requisitos para eventuais features etc. No começo de 2023, tive a oportunidade de atuar como Product Owner na etapa final do projeto, coordenando as reuniões semanais e gerindo o backlog de desenvolvimento do projeto, sinto que evolui ainda mais, principalmente minhas soft skills e relacionamento com os meus parceiros de equipe.
