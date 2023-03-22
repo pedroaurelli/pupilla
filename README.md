@@ -7,6 +7,15 @@
 ## Escopo do projeto 
 
 ## Casos de uso
+### Homepage
+![chrome-capture-2023-2-22-min](https://user-images.githubusercontent.com/88735972/226975066-b8d185b7-22bc-45c4-885d-cde014884455.gif)
+
+### Blog
+![chrome-capture-2023-2-22 (3)-min](https://user-images.githubusercontent.com/88735972/226976633-f9ad80f8-9a09-4853-b790-306bade809f4.gif)
+
+### Página de cursos
+![chrome-capture-2023-2-22 (2)-min](https://user-images.githubusercontent.com/88735972/226976114-4b3b5542-d5f1-4998-a211-0d558f0a0992.gif)
+
 
 ## Tecnologias 
 
