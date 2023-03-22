@@ -4,10 +4,10 @@
 <br/>
 
 ## Sumário
-- [Introdução](https://github.com/pedroaurelli/pupilla-README/edit/main/README.md#pupilla)
-- [Casos de uso](https://github.com/pedroaurelli/pupilla-README/edit/main/README.md#casos-de-uso)
-- [Escopo do projeto](https://github.com/pedroaurelli/pupilla-README/edit/main/README.md#escopo-do-projeto)
-- [Aprendizados](https://github.com/pedroaurelli/pupilla-README/edit/main/README.md#aprendizados)
+- [Introdução](https://github.com/pedroaurelli/pupilla-README#plataforma-integrada-com-conte%C3%BAdos-relevantes-da-%C3%A1rea-m%C3%A9dica-pelo-grupo-fleury-o-objetivo-desta-%C3%A1rea-de-neg%C3%B3cio-%C3%A9-a-atualiza%C3%A7%C3%A3o-de-especialistas--um--desafio-constante-dos-profissionais-de-sa%C3%BAde--com-m%C3%A9dicos-renomados-em-suas-%C3%A1reas-de-atua%C3%A7%C3%A3o-como-curadores-chamados-de-key-opinion-leaders-kols)
+- [Escopo do projeto](https://github.com/pedroaurelli/pupilla-README#casos-de-uso)
+- [Casos de uso](https://github.com/pedroaurelli/pupilla-README#casos-de-uso)
+- [Aprendizados](https://github.com/pedroaurelli/pupilla-README#aprendizados)
 #
 <br/>
 
@@ -41,7 +41,7 @@ Para criar uma página, é muito simples, Basta ser administrador e atraves do p
 Entrei no projeto em março de 2022, ainda como estagiario da Indigo. Tive a oportunidade de me desenvolver tanto minhas hard skills quanto minhas soft skills, trabalho em equipe, relacionamento com o cliente, levantamento de requisitos para eventuais features etc. No começo de 2023, tive a oportunidade de atuar como Product Owner na etapa final do projeto, coordenando as reuniões semanais e gerindo o backlog de desenvolvimento do projeto, sinto que evolui ainda mais, principalmente minhas soft skills e relacionamento com os meus parceiros de equipe.
 
 #
-- [Introdução](https://github.com/pedroaurelli/pupilla-README/edit/main/README.md#pupilla)
-- [Casos de uso](https://github.com/pedroaurelli/pupilla-README/edit/main/README.md#casos-de-uso)
-- [Escopo do projeto](https://github.com/pedroaurelli/pupilla-README/edit/main/README.md#escopo-do-projeto)
-- [Aprendizados](https://github.com/pedroaurelli/pupilla-README/edit/main/README.md#aprendizados)
+- [Introdução](https://github.com/pedroaurelli/pupilla-README#plataforma-integrada-com-conte%C3%BAdos-relevantes-da-%C3%A1rea-m%C3%A9dica-pelo-grupo-fleury-o-objetivo-desta-%C3%A1rea-de-neg%C3%B3cio-%C3%A9-a-atualiza%C3%A7%C3%A3o-de-especialistas--um--desafio-constante-dos-profissionais-de-sa%C3%BAde--com-m%C3%A9dicos-renomados-em-suas-%C3%A1reas-de-atua%C3%A7%C3%A3o-como-curadores-chamados-de-key-opinion-leaders-kols)
+- [Escopo do projeto](https://github.com/pedroaurelli/pupilla-README#casos-de-uso)
+- [Casos de uso](https://github.com/pedroaurelli/pupilla-README#casos-de-uso)
+- [Aprendizados](https://github.com/pedroaurelli/pupilla-README#aprendizados)
